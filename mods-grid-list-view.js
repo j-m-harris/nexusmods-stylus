@@ -1,5 +1,5 @@
 /* ==UserStyle==
-@name           www.nexusmods.com
+@name           NexusMods list view
 @namespace      github.com/openstyles/stylus
 @version        1.0.0
 @description    Style the mods grid into a list view.
